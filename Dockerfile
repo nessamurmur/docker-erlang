@@ -1,4 +1,4 @@
-FROM buildpack-deps:jessie
+FROM ubuntu:trusty
 
 MAINTAINER Nate West <natescott.west@gmail.com>
 
